@@ -30,6 +30,8 @@ Another important thing to say is that the test consists of 8 questions, however
 
 There are 3⋅1⋅3⋅3⋅4⋅5⋅6⋅3 = 9720 quiz combinations
 
+It's not a lottery! The algorithm will analyze your answers and define which house you fit into. 
+
 So, the goal is very simple: answer the questionnaire and find out which Hogwarts house you fit into.
 
 ### What did I use?
